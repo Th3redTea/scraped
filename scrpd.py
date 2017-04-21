@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
-#
-# So this is a simple example of web sraping using requests and BeautifulSoup
-#
+# This scraping script generate movies link from online.dramacafe.in website
+# this script was created for Arabe people 
 ##############################################################################
 from urllib import parse
 from  bs4 import BeautifulSoup
